@@ -1,6 +1,8 @@
 header {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color:#B6820A
   background-color: #EBEBEB;
+       }
 h1 {
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: #FFFAFF;
@@ -9,5 +11,6 @@ h2 {
   font-family: "Lucida Console", "Courier New", monospace;
    }
 body {
+  font-family: "Times New Roman", Times, serif;
   background-color: #FFFAFF;
      }
