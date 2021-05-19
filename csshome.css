@@ -25,3 +25,7 @@ body {
   font-weight: bolder;
   background-color: #FFFAFF;
      }
+img {
+  width: 270px;
+  border: 1px solid black;
+}
