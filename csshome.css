@@ -32,6 +32,11 @@ h4 {
   text-align: left;
   font-style: italic;
    }
+h6 {
+  font-family: "Lucida console". "Courier New", monospace;
+  font-weight: bolder;
+  color: blue;
+   }
 img {
   border-style: solid;
   border-width: 3px;
